@@ -1,6 +1,6 @@
 Hi William,
 
-You've got 10-15 hours in and a hard deadline — not a blank-slate situation. Coded up a version of your permit package flow: {VERCEL_URL}
+You've got 10-15 hours in and a hard deadline — not a blank-slate situation. Coded up a version of your permit package flow: https://perc-world.vercel.app
 
 Shows the field intake, mapping screen, and signature capture. The ADH e-submission is what's left once the Dreamflow pieces wire together.
 
